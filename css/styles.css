@@ -1,0 +1,59 @@
+.exemplo {
+    background: rgba(240, 11, 11, 0.72);
+    font-size: 30px;
+   padding: 20PX;
+    text-align: right;      
+    border-radius: 10px; 
+    font-family: 'Aladin', cursive;
+}
+ 
+h1{
+    text-align: center;
+    background-color: rgb(29, 101, 255);
+    border-radius: 10px;
+    font-family: 'Aladin', cursive;
+
+}
+   
+image{
+    text-align: center;
+}
+
+body{
+  background-color: rgb(11, 155, 221);
+}
+
+#menu ul{
+  padding: 0px;
+  margin: 0px;
+  background-color: #ededed;
+  list-style: none;
+  text-align: center;
+  border-radius: 10px;
+  font-family: 'Aladin', cursive;
+}
+
+
+#menu ul li{
+display: inline;
+}
+
+#menu ul li a {
+padding: 2px 10px;
+display> inline-block;
+background-color: #ededed;
+color: rgb(0, 0, 0);
+text-decoration: none;
+box-shadow: 3px solid #ededed;
+
+}
+#menu ul li a:hover{
+background-color: #d6d6d6;
+color: #6d6d6d;
+border-bottom: 4px solid rgb(7, 6, 6);
+}
+
+
+p{
+    background-color: blueviolet;
+}

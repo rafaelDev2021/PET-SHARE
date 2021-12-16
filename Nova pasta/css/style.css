@@ -1,0 +1,25 @@
+.exemplo {
+    background: rgba(72, 89, 214, 0.974);
+    font-size: 24px;
+    padding: 20PX;
+    text-align: right;
+  
+}    
+.exemplo {
+    "background-color:rgba(47, 224, 240, 0.994);
+}
+    .exemplo{
+        "background-color:rgba(102, 46, 26, 0.357);
+    }
+    body{
+        background-image: url("../imagens/mr1.jpg");
+        background-repeat: no-repeat;
+        background-size: 40%
+    }
+    h1 {color: rgb(235, 46, 46); font-size:12px}
+h2{color: black;font-weight:  12px;}
+h3{color:rgb(20, 20, 20);font-weight: 12px;}
+
+img{
+    
+}

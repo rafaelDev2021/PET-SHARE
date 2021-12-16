@@ -1,0 +1,48 @@
+body{
+  background-color: rgb(197, 197, 197);
+}
+.mydiv {
+  background-color: #575656a6;  
+  text-align: center;
+ font-size: 20px;
+ border-radius: 10px;
+ font-family: 'Aladin', cursive;
+
+}
+.exemplo {
+  background: rgba(240, 11, 11, 0.72);
+  font-size: 24px;
+  padding: 20px;
+  text-align: right;    
+  border-radius: 10px;   
+  font-family: 'Aladin', cursive;
+}
+#menu ul{
+  padding: 0px;
+  margin: 0px;
+  background-color: #ededed;
+  list-style: none;
+  text-align: center;
+  border-radius: 10px;
+  font-family: 'Aladin', cursive;
+}
+
+
+#menu ul li{
+display: inline;
+}
+
+#menu ul li a {
+padding: 2px 10px;
+display> inline-block;
+background-color: #ededed;
+color: rgb(0, 0, 0);
+text-decoration: none;
+box-shadow: 3px solid #ededed;
+
+}
+#menu ul li a:hover{
+background-color: #d6d6d6;
+color: #6d6d6d;
+border-bottom: 4px solid rgb(7, 6, 6);
+}
